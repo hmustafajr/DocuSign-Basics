@@ -1,0 +1,8 @@
+{
+	"recipients": {""
+	},
+	"emailSubject": "Please DocuSign this report",
+	"documents": [{...
+	}],
+	"status": "sent"
+}

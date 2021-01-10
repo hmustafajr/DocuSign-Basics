@@ -1,0 +1,12 @@
+{
+	"status": "sent",
+	"emailSubject": "DocuSign API - Composite Templates",
+	"compositeTemplates": [{
+		"serverTemplates": [{...
+		}],
+		"inlineTemplates": [{...
+		}]
+		"document": {
+		}
+	}]
+}
